@@ -996,7 +996,7 @@ export const StatusIcon = {
 
 Public assets used in the project can be found [here](https://drive.google.com/file/d/1yGvWFeSaH1_-aiQ1gejT23lqz5979RKB/view?usp=sharing)
 
-## <a name="more">🚀 More</a>
+<!-- ## <a name="more">🚀 More</a>
 
 **Advance your skills with Next.js 14 Pro Course**
 
@@ -1017,4 +1017,4 @@ And if you're hungry for more than just a course and want to understand how we l
 <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
 </a>
 
-#
+# -->
